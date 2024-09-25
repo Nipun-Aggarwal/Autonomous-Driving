@@ -1,0 +1,12 @@
+names:
+- Car
+- Pedestrian
+- Van
+- Cyclist
+- Truck
+- Misc
+- Tram
+- Person_sitting
+nc: 8
+train: D:\Germany\SRH Study\Semester 4\Thesis\Data\yolo-object-detection-kitti-main\train
+val: D:\Germany\SRH Study\Semester 4\Thesis\Data\yolo-object-detection-kitti-main\valid
