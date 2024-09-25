@@ -1,0 +1,7 @@
+Car
+Pedestrian
+Van
+Cyclist
+Truck
+Tram
+Person_sitting
